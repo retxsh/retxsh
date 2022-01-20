@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ritesh</h1>
-<h3 align="center">A Civil Engineering Undergrad. from India and I am learning Web Development from scratch</h3>
+<h1 align="center">Hi 👋, I'm Ritesh aka Voiedd</h1>
+<h3 align="center">I am learning Web Development from scratch</h3>
 
 <p align="left"> <a href="https://twitter.com/retxsh" target="blank"><img src="https://img.shields.io/twitter/follow/retxsh?logo=twitter&style=for-the-badge" alt="retxsh" /></a> </p>
 
