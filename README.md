@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ritesh</h1>
-<h3 align="center">I am learning Web Development from scratch</h3>
+<h3 align="center">I am learning Java Full Stack from scratch</h3>
 
 <p align="left"> <a href="https://twitter.com/retxsh" target="blank"><img src="https://img.shields.io/twitter/follow/retxsh?logo=twitter&style=for-the-badge" alt="retxsh" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS and Javascript**
+- 🌱 I’m currently learning **Java Full Stack**
 
 - 📫 How to reach me **retxsh@gmail.com**
 
