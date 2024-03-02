@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/retxsh" target="blank"><img src="https://img.shields.io/twitter/follow/retxsh?logo=twitter&style=for-the-badge" alt="retxsh" /></a> </p>
 
-- 🌱 I’m currently learning **Java Full Stack**
+- 🌱 I’m a **MERN Stack Developer**
 
 - 📫 How to reach me **retxsh@gmail.com**
 
